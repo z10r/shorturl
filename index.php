@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-<html>
 <?php
 /*
 This is a very basic example of a function that
@@ -124,4 +122,3 @@ if($result["errorCode"]==3)
     //from using v.gd again for 1 minute or so.
 }
 ?>
-</html>
